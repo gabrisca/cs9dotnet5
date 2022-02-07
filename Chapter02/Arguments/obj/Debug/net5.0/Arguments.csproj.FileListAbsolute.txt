@@ -1,0 +1,16 @@
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter02/Arguments/bin/Debug/net5.0/Arguments
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter02/Arguments/bin/Debug/net5.0/Arguments.deps.json
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter02/Arguments/bin/Debug/net5.0/Arguments.runtimeconfig.json
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter02/Arguments/bin/Debug/net5.0/Arguments.runtimeconfig.dev.json
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter02/Arguments/bin/Debug/net5.0/Arguments.dll
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter02/Arguments/bin/Debug/net5.0/ref/Arguments.dll
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter02/Arguments/bin/Debug/net5.0/Arguments.pdb
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter02/Arguments/obj/Debug/net5.0/Arguments.csproj.AssemblyReference.cache
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter02/Arguments/obj/Debug/net5.0/Arguments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter02/Arguments/obj/Debug/net5.0/Arguments.AssemblyInfoInputs.cache
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter02/Arguments/obj/Debug/net5.0/Arguments.AssemblyInfo.cs
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter02/Arguments/obj/Debug/net5.0/Arguments.csproj.CoreCompileInputs.cache
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter02/Arguments/obj/Debug/net5.0/Arguments.dll
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter02/Arguments/obj/Debug/net5.0/ref/Arguments.dll
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter02/Arguments/obj/Debug/net5.0/Arguments.pdb
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter02/Arguments/obj/Debug/net5.0/Arguments.genruntimeconfig.cache

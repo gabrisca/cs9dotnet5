@@ -1,0 +1,16 @@
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.deps.json
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.runtimeconfig.json
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.runtimeconfig.dev.json
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.dll
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter01/HelloCS/bin/Debug/net5.0/ref/HelloCS.dll
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter01/HelloCS/bin/Debug/net5.0/HelloCS.pdb
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.csproj.AssemblyReference.cache
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.AssemblyInfoInputs.cache
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.AssemblyInfo.cs
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.csproj.CoreCompileInputs.cache
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.dll
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter01/HelloCS/obj/Debug/net5.0/ref/HelloCS.dll
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.pdb
+/Users/gabrisca/Documents/Full_Stack_Developer/NET Fundamental/c#doc/cs9dotnet5/Chapter01/HelloCS/obj/Debug/net5.0/HelloCS.genruntimeconfig.cache

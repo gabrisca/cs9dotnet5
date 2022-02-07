@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic
 
 namespace HelloCS
 {
@@ -6,7 +7,13 @@ namespace HelloCS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, C#!");
+            var prezzo = 20;
+            var tasse = 5;
+
+            var tot = prezzo + tasse;
+
+            Console.WriteLine(tot.ToString);
+
         }
     }
 }

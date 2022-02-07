@@ -197,6 +197,11 @@ namespace WritingFunctions
       }
     }
 
+    /// <summary>
+    /// Funzione (in lambda) che calcola la serie di fibonacci
+    /// </summary>
+    /// <param name="term"></param>
+    /// <returns></returns>
     static int FibFunctional(int term) =>
       term switch
       {
